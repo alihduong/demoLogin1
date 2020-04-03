@@ -53,10 +53,9 @@ include 'connectdtb.php';
 						</span>
 					</div>
 					
-					<div class="container-login100-form-btn">
+					<div class="container-login100-form-btn" <a href="../toy_store/index.php"></a> >
 						<button class="login100-form-btn">
 							Login
-                                                        <a href="../toy_store/index.php"></a>
 						</button>
 					</div>
 
